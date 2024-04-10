@@ -1,5 +1,4 @@
 **escrever texto**
 ~~escrever texto~~
 *escrever texto* 
-![image](https://github.com/amandadonascimento/Comp.-G/assets/125469906/39fce753-7a1a-4730-971e-de4f868f5eed)
-
+![](https://tenor.com/pt-BR/view/hungry-cat-food-bowl-wheres-my-food-give-me-food-gif-17416211)
